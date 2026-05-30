@@ -1,0 +1,31 @@
+{
+  "embeds": [
+    {
+      "title": "⚓ SHIP LEADERSHIP",
+      "description": "Command crew of the Akula",
+      "color": 15158332,
+      "fields": [
+        {
+          "name": "🦈 メ Akula",
+          "value": "**Founder**\n*The one who started it all.*",
+          "inline": true
+        },
+        {
+          "name": "🐺 メ Koyn",
+          "value": "**Owner**\n*Commands with authority.*",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/1489124385871626250/1510102419000791060/standard_6.gif?ex=6a1b97f9&is=6a1a4679&hm=31589f189d39b3f077621c3b3a27f2a086af6be3f5642193fedb348037f3a736&"
+      },
+      "footer": {
+        "text": "Hail the Founders & Owners • No one stands above"
+      },
+      "timestamp": "2026-05-30T10:24:00.000Z",
+      "image": {
+        "url": ""
+      }
+    }
+  ]
+}
