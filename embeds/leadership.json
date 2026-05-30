@@ -15,11 +15,6 @@
           "value": "**Co-Owner**\n*Manages assets, vaults, and staff.*",
           "inline": true
         },
-        {
-          "name": "🛠️ Asset Team",
-          "value": "• Uploaders\n• Verifiers\n• Decryptors\n*Contact for uncopylocking requests*",
-          "inline": false
-        },
       ],
       "thumbnail": {
         "url": "https://cdn.discordapp.com/attachments/1489124385871626250/1510102419000791060/standard_6.gif"
