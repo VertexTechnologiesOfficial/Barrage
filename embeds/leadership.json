@@ -1,26 +1,36 @@
 {
   "embeds": [
     {
-      "title": "📦 ASSET TEAM — STAFF LEADERSHIP",
-      "description": "Management team of the Uncopylocking Hub",
+      "title": "🔓 ASSET UNCOPYLOCKING — LEADERSHIP",
+      "description": "Server management & asset operations team",
       "color": 15158332,
       "fields": [
         {
           "name": "👑 メ Akula",
-          "value": "**Founder**\n*Created the server & uncopylocking system.*",
+          "value": "**Founder**\n*The one who started it all.*\n• Server infrastructure\n• Asset policy & security\n• Final authority",
           "inline": true
         },
         {
           "name": "⚙️ メ Koyn",
-          "value": "**Co-Owner**\n*Manages assets, vaults, and staff.*",
+          "value": "**Co-Owner**\n*Commands with authority.*\n• Asset vault management\n• Staff coordination\n• Uncoplocks & verification",
           "inline": true
         },
+        {
+          "name": "📦 Asset Access",
+          "value": "▸ Uncopylocked files\n▸ Decrypted models\n▸ Scripts & plugins\n▸ RBXL / RBXM files",
+          "inline": false
+        },
+        {
+          "name": "⚠️ Server Rule",
+          "value": "`No reselling locked content. Credit original creators.`",
+          "inline": false
+        }
       ],
       "thumbnail": {
         "url": "https://cdn.discordapp.com/attachments/1489124385871626250/1510102419000791060/standard_6.gif"
       },
       "footer": {
-        "text": "Uncopylocking Hub • Founder & Co-Owner only"
+        "text": "Akula Uncopylocking Hub • Founder & Co-Owner"
       },
       "timestamp": "2026-05-30T10:24:00.000Z"
     }
