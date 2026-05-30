@@ -1,7 +1,7 @@
 {
   "embeds": [
     {
-      "title": "🔓 ASSET UNCOPYLOCKING — LEADERSHIP",
+      "title": "🔓 Akulas Leaks — LEADERSHIP",
       "description": "Server management & asset operations team",
       "color": 15158332,
       "fields": [
@@ -15,22 +15,12 @@
           "value": "**Co-Owner**\n*Commands with authority.*\n• Asset vault management\n• Staff coordination\n• Uncoplocks & verification",
           "inline": true
         },
-        {
-          "name": "📦 Asset Access",
-          "value": "▸ Uncopylocked files\n▸ Decrypted models\n▸ Scripts & plugins\n▸ RBXL / RBXM files",
-          "inline": false
-        },
-        {
-          "name": "⚠️ Server Rule",
-          "value": "`No reselling locked content. Credit original creators.`",
-          "inline": false
-        }
       ],
       "thumbnail": {
         "url": "https://cdn.discordapp.com/attachments/1489124385871626250/1510102419000791060/standard_6.gif"
       },
       "footer": {
-        "text": "Akula Uncopylocking Hub • Founder & Co-Owner"
+        "text": "Akula Leaking • Automations"
       },
       "timestamp": "2026-05-30T10:24:00.000Z"
     }
